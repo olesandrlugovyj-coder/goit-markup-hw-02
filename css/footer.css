@@ -1,0 +1,33 @@
+
+.logo-basement{
+font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.33333;
+letter-spacing: 0.03em;
+text-transform: none;
+color: #f4f4fd;
+}
+
+.logo-basement span {
+font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.33333;
+letter-spacing: 0.03em;
+color: #4d5ae5;
+}
+.basement, a {
+background: #2e2f42;
+text-decoration: none;
+}
+.text-list {
+    font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
+}
+
+

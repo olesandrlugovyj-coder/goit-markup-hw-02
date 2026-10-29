@@ -1,0 +1,54 @@
+
+.logo {
+font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.33333;
+letter-spacing: 0.03em;
+background: #fff;
+text-transform: uppercase;
+color: #2e2f42;
+}
+
+.logo span{
+color: #4d5ae5;
+}
+
+.element{
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
+background: #fff;
+
+}
+
+.list {
+background: #fff;
+color:#2e2f42;
+ list-style-type: none;
+}
+
+.address-text {
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+background: #fff;
+}
+.element:hover,
+.element:focus {
+color: #404bbf;
+}
+.list:hover,
+.list:focus {
+    color: #404bbf;
+}
+.address-text:hover,
+.address-text:focus {
+    color: #404bbf;
+}
