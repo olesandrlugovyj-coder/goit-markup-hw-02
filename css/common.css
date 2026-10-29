@@ -4,6 +4,10 @@ font-weight: 500;
 font-size: 14px;
 line-height: 1.4;
 color: #2e2f42;
+background-color: #fff;
     }
 
 
+.marker {
+    list-style: none;
+}

@@ -8,6 +8,7 @@ letter-spacing: 0.03em;
 background: #fff;
 text-transform: uppercase;
 color: #2e2f42;
+text-decoration: none;
 }
 
 .logo span{
@@ -29,6 +30,7 @@ background: #fff;
 background: #fff;
 color:#2e2f42;
  list-style-type: none;
+ text-decoration: none;
 }
 
 .address-text {
@@ -39,6 +41,8 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 background: #fff;
+text-decoration: none;
+font-style: normal;
 }
 .element:hover,
 .element:focus {

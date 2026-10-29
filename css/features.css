@@ -1,4 +1,4 @@
-.text.element {
+.titl-featur.name {
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -7,16 +7,18 @@ color: #2e2f42;
 list-style-type: none;
 text-align: left;
 }
-.text.list {
+.text {
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
-letter-spacing: 0.02em;
 color: #434455;
 text-align: left;
+
 }
-h1,h2,h3,p  {
-  text-align: left;
+
+h1,h2,h3,p  { 
   display: block;
-  list-style: none;
+  list-style-type: none;
 }
+/*
+text
