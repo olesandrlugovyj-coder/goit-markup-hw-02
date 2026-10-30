@@ -5,9 +5,8 @@ font-size: 14px;
 line-height: 1.4;
 color: #2e2f42;
 background-color: #fff;
-    }
+}
 
-
-.list {
+ul {
     list-style: none;
 }

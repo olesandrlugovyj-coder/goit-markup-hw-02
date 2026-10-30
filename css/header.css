@@ -44,12 +44,9 @@ background: #fff;
 text-decoration: none;
 font-style: normal;
 }
-.element:hover,
-.element:focus {
-color: #404bbf;
-}
-.list:hover,
-.list:focus {
+
+.link:hover,
+.link:focus {
     color: #404bbf;
 }
 .address-text:hover,
