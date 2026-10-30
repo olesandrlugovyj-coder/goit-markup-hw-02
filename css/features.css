@@ -1,4 +1,5 @@
-.name-tititle.titl-featur {
+.groups{
+font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -7,6 +8,15 @@ color: #2e2f42;
 list-style-type: none;
 text-align: left;
 }
+
+.title-featur {
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.4;
+color: #2e2f42;
+}
+
 .text {
 font-weight: 400;
 font-size: 16px;
@@ -14,13 +24,4 @@ line-height: 1.5;
 color: #434455;
 text-align: left;
 letter-spacing: 0.02em;
-
-}
-
-
-.title {
-font-weight: 700;
-font-size:56;
-line-height: 60px;
-letter-spacing: 2%;
 }
